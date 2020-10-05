@@ -1,2 +1,2 @@
 # Python3
-Alla about python 
+All about python 
